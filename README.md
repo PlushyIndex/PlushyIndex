@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlushyIndex
-- 👀 I’m interested in Coding, Gaming
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Random Projects
+- 👋 Hello there, I am @PlushyIndex
+- 👀 My interests lie in Coding and Gaming
+- 🌱 Currently, I am not engaged in any learning endeavors
+- 💞️ I eagerly welcome opportunities to collaborate on diverse Projects
